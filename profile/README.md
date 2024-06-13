@@ -18,7 +18,7 @@ Embark on a journey with us as we explore uncharted territories of knowledge and
 
 - **Innovation Redefined:** Brace yourself for a rollercoaster of cutting-edge research that challenges the status quo.
 
-
+###
 
 <div align="center">
   All Right Reserved © <a href="https://github.com/AlgoneX/Code-Licence/blob/1ec338af4c0ee168b70bff52df366b10724f606f/LICENSE">AlgoneX Intelligence Research Pvt. Ltd</a>
